@@ -42,7 +42,7 @@ function GreatVaultAddonOptions:createOptions()
         C_UI.Reload()
     end
 
-    local reloadSettingsButton = DetailsFramework:CreateButton(optionsFrame, reloadSettings, 130, 20, "Reload UI")
+    local reloadSettingsButton = DetailsFramework:CreateButton(optionsFrame, reloadSettings, 130, 20, L["Reload UI"])
     reloadSettingsButton:SetPoint("bottomleft", optionsFrame, "bottomleft", 15, 15)
     reloadSettingsButton:SetTemplate(options_button_template)
     

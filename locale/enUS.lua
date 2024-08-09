@@ -18,6 +18,7 @@ L["mythic"] = "Mythic"
 L["keystone"] = "Keystone"
 
 
+L["Reload UI"] = "Reload UI"
 
 
 L["OpenVault"] = "Open Vault"
